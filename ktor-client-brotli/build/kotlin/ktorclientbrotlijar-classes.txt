@@ -1,0 +1,1 @@
+/Users/shanemills/ester Music/ktor-client-brotli/build/classes/kotlin/main/io/ktor/client/plugins/compression/BrotliEncoder.class:/Users/shanemills/ester Music/ktor-client-brotli/build/classes/kotlin/main/io/ktor/client/plugins/compression/BrotliKt.class
